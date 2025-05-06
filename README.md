@@ -6,7 +6,4 @@ Este proyecto es un sistema básico de generación de objetos aleatorios en Unit
 
 1. Clona este repositorio en tu máquina local.
 2. Abre el proyecto en Unity.
-3. Asigna los siguientes componentes en el Inspector:
-   - Un prefab al campo `Fruit Prefab` en el GameManager.
-   - Un componente de texto (`Text` o `TMP_Text`) al campo `Object Counter Text` en el GameManager.
-4. Ejecuta el proyecto desde el editor de Unity.
+3. Ejecuta el proyecto desde el editor de Unity.
